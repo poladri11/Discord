@@ -1,0 +1,47 @@
+{
+  "content": "Holiwi Níon",
+  "embed": {
+    "title": "Níon te quiero guapo hermoso bello te como la...",
+    "description": "Papaia memer",
+   
+    "color": 65490,
+    "footer": {
+      "icon_url": "https://st2.depositphotos.com/1345122/8176/i/950/depositphotos_81763028-stock-photo-cartoon-character-of-papaya.jpg",
+      "text": "footer text"
+    },
+    "thumbnail": {
+      "url": "https://st2.depositphotos.com/1345122/8176/i/950/depositphotos_81763028-stock-photo-cartoon-character-of-papaya.jpg"
+    },
+    "image": {
+      "url": "https://st2.depositphotos.com/1345122/8176/i/950/depositphotos_81763028-stock-photo-cartoon-character-of-papaya.jpg"
+    },
+    "author": {
+      "name": "Poladri11",
+      "icon_url": "https://st2.depositphotos.com/1345122/8176/i/950/depositphotos_81763028-stock-photo-cartoon-character-of-papaya.jpg"
+    },
+    "fields": [
+      {
+        "name": "🤔",
+        "value": "Increíble edición"
+      },
+      {
+        "name": "😱",
+        "value": "Increíble edición v.2"
+      },
+      {
+        "name": "🙄",
+        "value": "Increíble edición v.3"
+      },
+      {
+        "name": "<:thonkang:219069250692841473>",
+        "value": "Increíble edición v.4",
+        "inline": true
+      },
+      {
+        "name": "<:thonkang:219069250692841473>",
+        "value": "Increíble edición v.5",
+        "inline": true
+      }
+    ]
+  }
+}
